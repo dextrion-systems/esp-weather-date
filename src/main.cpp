@@ -13,7 +13,7 @@ const char* password = "wifi password";
 
 // OpenWeatherMap API credentials
 const char* apiKey = "account api key";
-const char* location = "location "; // Location format: City,CountryCode
+const char* location = "location"; // Location format: City,CountryCode
 const char* weatherHost = "api.openweathermap.org";
 
 // NTP server for time synchronization
