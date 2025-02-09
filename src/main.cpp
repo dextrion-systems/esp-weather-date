@@ -8,12 +8,12 @@
 #include "time.h"
 
 // WiFi credentials
-const char* ssid = "Tiger";
-const char* password = "mnbvcxz8";
+const char* ssid = "ssid";
+const char* password = "wifi password";
 
 // OpenWeatherMap API credentials
-const char* apiKey = "c6128a2cb28f191b2fe614f52c346bd4";
-const char* location = "Shrewsbury,GB"; // Location format: City,CountryCode
+const char* apiKey = "account api key";
+const char* location = "location "; // Location format: City,CountryCode
 const char* weatherHost = "api.openweathermap.org";
 
 // NTP server for time synchronization
