@@ -5,5 +5,6 @@ esp wroom32,
 lcd 16x2, 
 jump cables,
 an api.openweathermap.org account and 
-location and wifi
+location and wifi.
+please visit my website to support @ noah.wibjibit.com
 
